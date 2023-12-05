@@ -46,7 +46,7 @@ var temp = ui.Chart.image.series({
     trendlines: {1: {
         color: 'CC0000'
       }},
-     title: 'SST Oceano Pacíico',
+     title: 'SST Oceano Pacífico',
      vAxis: {title: 'SST Celsius'}});
 print(temp);
 
