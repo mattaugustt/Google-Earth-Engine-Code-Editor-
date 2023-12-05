@@ -1,4 +1,4 @@
-//LINK PARA RODAR: 
+//LINK PARA RODAR: https://code.earthengine.google.com/147a8dd4f7aa8e1d8e42242132fbfc31
 
 //PONTO DE ESTUDO:
 var areia = /* color: #d63000 */ee.Geometry.Point([-38.493859516700866, -9.018812264829544]);
